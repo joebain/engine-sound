@@ -1,0 +1,68 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Library/
+Library*/
+Builds/
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+.vs/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.blend?
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+#Icon?
+ehthumbs.db
+Thumbs.db
+Thumbs.db.meta
+
+## other
+checkpoint_times/
+replays/
+scores/
+records/
+emails.csv
+*.swp
+*.swo
+*.prof
+*~
+
+*.unitypackage
+
+todo*
+
+# include tree obj files
+!Assets/Plugins/**/OBJ
+
+*.7z
+
+Gallery/
+Captures/
+
+steamworks_sdk_142/
+!steamworks_sdk_142/sdk/tools/ContentBuilder/scripts/
+!steamworks_sdk_142/sdk/tools/ContentBuilder/*.bat
+Logs/
+.vscode/
+.vsconfig
